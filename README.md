@@ -1,6 +1,6 @@
 # atexovi-baileys
 
-![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/balileys-logo.jpg)
+![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg)
 
 Library WhatsApp berbasis **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)**.  
 Library ini mendukung berbagai jenis tombol interaktif dan template pesan.
@@ -118,4 +118,3 @@ Dukung pengembangan library ini melalui [Saweria](https://saweria.co/atexovi)
 ## Lisensi
 
 ISC
-c
