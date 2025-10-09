@@ -1,4 +1,5 @@
 # atexovi-baileys
+**Atex Ovi modified Baileys WhatsApp API**
 
 ![npm](https://img.shields.io/npm/v/atexovi-baileys?color=brightgreen) &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js->=20-blue) &nbsp;
@@ -6,13 +7,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=social&color=blue) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=social&color=blue)
 
-
+<br><br>
 ![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg)
 
-Library WhatsApp berbasis **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)**.  
-Library ini mendukung berbagai jenis tombol interaktif dan template pesan.
+WhatsApp library based on **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)**.  
+This library supports various interactive buttons and message templates.
 
-
+---
 
 ## Demo / Screenshots
 
@@ -26,30 +27,30 @@ Library ini mendukung berbagai jenis tombol interaktif dan template pesan.
   </tr>
 </table>
 
+---
 
+## Button Code Documentation
 
-## Dokumentasi Kode Tombol
-
-Berikut contoh ringkas penggunaan setiap jenis tombol pada **atexovi-baileys**.
+Here is a brief example of using each type of button in **atexovi-baileys**.
 
 ### 1. List Button
 
 ```js
 await sock.sendMessage(from, {
-  text: 'Pilih menu:',
+  text: 'Select a menu:',
   interactiveButtons: [
     {
       name: 'single_select',
       buttonParamsJson: JSON.stringify({
-        title: 'Menu Utama',
+        title: 'Main Menu',
         sections: [
           {
-            title: 'Pilihan Fitur',
+            title: 'Feature Options',
             rows: [
-              { title: 'Call Button', description: 'Contoh call button', id: 'call' },
-              { title: 'URL Button', description: 'Contoh url button', id: 'url' },
-              { title: 'Quick Reply Button', description: 'Contoh quick reply button', id: 'quick' },
-              { title: 'Copy Button', description: 'Contoh copy button', id: 'copy' },
+              { title: 'Call Button', description: 'Call button example', id: 'call' },
+              { title: 'URL Button', description: 'URL button example', id: 'url' },
+              { title: 'Quick Reply Button', description: 'Quick reply button example', id: 'quick' },
+              { title: 'Copy Button', description: 'Copy button example', id: 'copy' },
             ],
           },
         ],
@@ -87,43 +88,41 @@ import { handleCopyButton } from './features/copyButton.js';
 await handleCopyButton(sock, from);
 ```
 
-## Template Bot Lengkap
+## Full Bot Template
 
-Sebagai contoh implementasi lengkap, Anda bisa melihat template bot interaktif [disini](https://github.com/atex-ovi/atexovi-wabase-button).
+For a complete interactive bot implementation, see the template [here](https://github.com/atex-ovi/atexovi-wabase-button).
 
 ---
 
-## Pengembangan Lanjutan
+## Further Development
 
-Untuk pengembangan lebih lanjut, Anda bisa mengikuti [**WhiskeySockets Baileys**](https://github.com/WhiskeySockets/Baileys) yang resmi.
+For advanced development, follow the official [**WhiskeySockets Baileys**](https://github.com/WhiskeySockets/Baileys).
 
 ---
 
 ## Disclaimer
 
-WhatsApp adalah merek dagang dari WhatsApp Inc.  
-Library ini menggunakan [**atexovi-baileys**](https://www.npmjs.com/package/atexovi-baileys), library open-source dan tidak resmi.
+WhatsApp is a trademark of WhatsApp Inc.  
+This library uses [**atexovi-baileys**](https://www.npmjs.com/package/atexovi-baileys), an open-source unofficial library.
 
-
-Gunakan library ini dengan tanggung jawab sendiri dan hindari spam atau penyalahgunaan.
+Use this library responsibly and avoid spam or misuse.
 
 ---
 
-## Donasi
+## Donations
 
-Dukung pengembangan library ini melalui [Saweria](https://saweria.co/atexovi)
+Support the library development via [Saweria](https://saweria.co/atexovi)
 
 ---
 
 ## Special Thanks
 
-* [WhatsApp API](https://www.whatsapp.com) - teknologi resmi WhatsApp untuk integrasi pesan.
-* [adiwajshing (Baileys)](https://github.com/adiwajshing) - pengembang library Baileys untuk WhatsApp API.
-* [WhiskeySockets Baileys](https://github.com/WhiskeySockets/Baileys) - kontribusi tambahan pada Baileys.
+* [WhatsApp API](https://www.whatsapp.com) - official WhatsApp messaging technology.
+* [adiwajshing (Baileys)](https://github.com/adiwajshing) - developer of the Baileys WhatsApp API library.
+* [WhiskeySockets Baileys](https://github.com/WhiskeySockets/Baileys) - additional contributions to Baileys.
 
 ---
 
-## Lisensi
+## License
 
 ISC
-
