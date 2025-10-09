@@ -6,13 +6,13 @@
 ![GitHub stars](https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=social&color=blue) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=social&color=blue)
 
-<br><br>
+
 ![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/balileys-logo.jpg)
 
 Library WhatsApp berbasis **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)**.  
 Library ini mendukung berbagai jenis tombol interaktif dan template pesan.
 
----
+
 
 ## Demo / Screenshots
 
@@ -26,7 +26,7 @@ Library ini mendukung berbagai jenis tombol interaktif dan template pesan.
   </tr>
 </table>
 
----
+
 
 ## Dokumentasi Kode Tombol
 
