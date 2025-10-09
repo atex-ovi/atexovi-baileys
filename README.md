@@ -125,4 +125,4 @@ Support the library development via [Saweria](https://saweria.co/atexovi)
 
 ## License
 
-ISC
+MIT
