@@ -126,3 +126,4 @@ Dukung pengembangan library ini melalui [Saweria](https://saweria.co/atexovi)
 ## Lisensi
 
 ISC
+
