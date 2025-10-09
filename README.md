@@ -123,6 +123,12 @@ Support the library development via [Saweria](https://saweria.co/atexovi)
 
 ---
 
+## Released
+
+wabbase-button ![Bot Version](https://img.shields.io/github/v/release/atex-ovi/wabase-button?color=brightgreen)
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
