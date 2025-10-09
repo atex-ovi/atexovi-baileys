@@ -1,9 +1,18 @@
 # atexovi-baileys
 
-![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg)
+![npm](https://img.shields.io/npm/v/atexovi-baileys?color=brightgreen) &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js->=20-blue) &nbsp;
+![License](https://img.shields.io/npm/l/atexovi-baileys?color=yellow) &nbsp;
+![GitHub stars](https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=social&color=blue) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=social&color=blue)
+
+<br><br>
+![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/balileys-logo.jpg)
 
 Library WhatsApp berbasis **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)**.  
 Library ini mendukung berbagai jenis tombol interaktif dan template pesan.
+
+---
 
 ## Demo / Screenshots
 
@@ -16,7 +25,6 @@ Library ini mendukung berbagai jenis tombol interaktif dan template pesan.
     <td><img src="https://raw.githubusercontent.com/atex-ovi/demo-button/main/copy-button.jpg" width="150"></td>
   </tr>
 </table>
-
 
 ---
 
