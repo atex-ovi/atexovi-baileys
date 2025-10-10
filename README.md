@@ -12,10 +12,13 @@
   <br>
 
   <!-- BARIS 2 -->
-  <img src="https://img.shields.io/github/issues/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Issues">
-  <img src="https://img.shields.io/github/last-commit/atex-ovi/atexovi-wabase-button?style=flat&logo=git&labelColor=181717&color=white" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white">
+  <img src="https://img.shields.io/github/last-commit/atex-ovi/baileys?style=flat&logo=git&labelColor=181717&color=white">
   <a href="https://saweria.co/atexovi" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria Donate">
+  </a>
+  <a href="https://t.me/atexovi" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-Telegram-29A9EB?style=flat&logo=telegram&logoColor=white" alt="Telegram Contact">
   </a>
   <a href="https://facebook.com/atex.ovi" target="_blank">
     <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Follow">
