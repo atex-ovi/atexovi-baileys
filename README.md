@@ -138,9 +138,11 @@ Support the library development via [Saweria](https://saweria.co/atexovi)
 
 ## Special Thanks
 
-* **adiwajshing** – Creator of the official [Baileys WhatsApp API](https://github.com/adiwajshing/baileys)  
-* **WhatsApp** – Official messaging platform ([WhatsApp API](https://www.whatsapp.com))  
-* **WhiskeySockets Baileys** – Contributions and improvements ([GitHub](https://github.com/WhiskeySockets/Baileys))
+- **[Adhiraj Singh (@adiwajshing)](https://github.com/adiwajshing)** – Creator of the original [Baileys WhatsApp API](https://github.com/adiwajshing/baileys), an open-source library enabling interaction with WhatsApp Web via WebSocket.
+
+- **[WhatsApp Inc.](https://www.whatsapp.com)** – Official messaging platform providing APIs for integration and automation.
+
+- **[WhiskeySockets](https://github.com/WhiskeySockets/Baileys)** – Maintainers of the latest Baileys version, adding enhancements and features to support WhatsApp Multi-Device (MD).
 
 ---
 
