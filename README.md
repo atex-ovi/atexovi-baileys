@@ -1,12 +1,27 @@
 # atexovi-baileys
 **Atex Ovi modified Baileys WhatsApp API**
 
-![npm](https://img.shields.io/npm/v/atexovi-baileys?color=red) &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js->=20-blue) &nbsp;
-![License](https://img.shields.io/npm/l/atexovi-baileys?color=yellow) &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=social&color=blue) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=social&color=blue)
+<p align="center">
+  <!-- BARIS 1 -->
+  <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
+  <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
+  <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
 
+  <br>
+
+  <!-- BARIS 2 -->
+  <img src="https://img.shields.io/github/issues/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/last-commit/atex-ovi/atexovi-wabase-button?style=flat&logo=git&labelColor=181717&color=white" alt="Last Commit">
+  <img src="https://img.shields.io/github/v/release/atex-ovi/wabase-button?style=flat&logo=whatsapp&logoColor=white&label=Bot%20Version&color=brightgreen" alt="Bot Version">
+  <a href="https://saweria.co/atexovi" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria Donate">
+  </a>
+  <a href="https://facebook.com/atex.ovi" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Follow">
+  </a>
+</p>
 <br><br>
 ![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg)
 
