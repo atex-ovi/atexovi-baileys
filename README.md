@@ -10,7 +10,7 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
   </a>
-  <a href="[https://github.com/atex-ovi/atexovi-wabase-button/blob/main/LICENSE](https://github.com/atex-ovi/wabase-button?tab=MIT-1-ov-file#readme)" target="_blank">
+  <a href="[[https://github.com/atex-ovi/atexovi-wabase-button/blob/main/LICENSE](https://github.com/atex-ovi/atexovi-wabase-button/blob/main/LICENSE)](https://github.com/atex-ovi/wabase-button?tab=MIT-1-ov-file#readme)" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
   </a>
   <a href="https://github.com/atex-ovi/atexovi-wabase-button/stargazers" target="_blank">
