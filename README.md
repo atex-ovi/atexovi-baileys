@@ -14,7 +14,6 @@
   <!-- BARIS 2 -->
   <img src="https://img.shields.io/github/issues/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Issues">
   <img src="https://img.shields.io/github/last-commit/atex-ovi/atexovi-wabase-button?style=flat&logo=git&labelColor=181717&color=white" alt="Last Commit">
-  <img src="https://img.shields.io/github/v/release/atex-ovi/wabase-button?style=flat&logo=whatsapp&logoColor=white&label=Bot%20Version&color=brightgreen" alt="Bot Version">
   <a href="https://saweria.co/atexovi" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria Donate">
   </a>
@@ -165,8 +164,8 @@ Support the library development via [Saweria](https://saweria.co/atexovi)
 
 ## Released
 
-wabase-button ![Bot Version](https://img.shields.io/github/v/release/atex-ovi/wabase-button?color=brightgreen)
 
+  <img src="https://img.shields.io/github/v/release/atex-ovi/wabase-button?style=flat&logo=whatsapp&logoColor=white&label=Bot%20Version&color=brightgreen" alt="wabase-button">
 ---
 
 ## License
