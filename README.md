@@ -15,7 +15,7 @@ This library supports various interactive buttons and message templates.
 
 ---
 
-## 🚀 Features
+## Features
 - Compatible with **WhatsApp Multi-Device (MD)** API
 - Uses **libsignal from Meta** for encryption
 - Custom patches & bug fixes for improved connection stability
