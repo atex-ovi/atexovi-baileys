@@ -23,6 +23,8 @@
   </a>
 </p>
 
+<br><br>
+
 ![Atex Ovi Logo](https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg)
 
 WhatsApp library based on **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)**.  
