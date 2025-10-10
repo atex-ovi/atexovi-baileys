@@ -2,27 +2,43 @@
 **Atex Ovi modified Baileys WhatsApp API**
 
 <p align="center">
-  <!-- BARIS 1 -->
-  <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
-  <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
-  <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
+
+  <!-- 🔹 BARIS 1 -->
+  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
+  </a>
+  <a href="https://github.com/atex-ovi/atexovi-wabase-button/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
+  </a>
+  <a href="https://github.com/atex-ovi/atexovi-wabase-button/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/atex-ovi/atexovi-wabase-button/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
+  </a>
 
   <br>
 
-  <!-- BARIS 2 -->
-  <img src="https://img.shields.io/github/issues/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white">
-  <img src="https://img.shields.io/github/last-commit/atex-ovi/baileys?style=flat&logo=git&labelColor=181717&color=white">
+  <!-- 🔹 BARIS 2 -->
+  <a href="https://github.com/atex-ovi/baileys/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/atex-ovi/baileys/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/atex-ovi/baileys?style=flat&logo=git&labelColor=181717&color=white" alt="Last Commit">
+  </a>
+  <a href="https://github.com/atex-ovi/wabase-button/releases" target="_blank">
+    <img src="https://img.shields.io/github/v/release/atex-ovi/wabase-button?style=flat&logo=whatsapp&logoColor=white&label=wabase-button&color=brightgreen" alt="Bot Version">
+  </a>
   <a href="https://saweria.co/atexovi" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria Donate">
-  </a>
-  <a href="https://t.me/atexovi" target="_blank">
-    <img src="https://img.shields.io/badge/Contact-Telegram-29A9EB?style=flat&logo=telegram&logoColor=white" alt="Telegram Contact">
   </a>
   <a href="https://facebook.com/atex.ovi" target="_blank">
     <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Follow">
   </a>
+
 </p>
 
 <br><br>
