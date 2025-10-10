@@ -15,6 +15,22 @@ This library supports various interactive buttons and message templates.
 
 ---
 
+## 🚀 Features
+- Compatible with **WhatsApp Multi-Device (MD)** API
+- Uses **libsignal from Meta** for encryption
+- Custom patches & bug fixes for improved connection stability
+- Optimized **message handling** and **media decoding**
+- Supports:
+  - **List Button Menus** (Single Select)
+  - **Quick Reply Buttons**
+  - **CTA URL Buttons**
+  - **CTA Call Buttons**
+  - **Copy Buttons**
+  - **Combination of buttons & menus**
+- Lightweight and easy to integrate with existing bots
+
+---
+
 ## Demo / Screenshots
 
 <table>
@@ -27,6 +43,12 @@ This library supports various interactive buttons and message templates.
   </tr>
 </table>
 
+---
+This project is powered by **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)** – install via npm:
+
+```bash
+npm install atexovi-baileys
+```
 ---
 
 ## Button Code Documentation
@@ -102,10 +124,9 @@ For advanced development, follow the official [**WhiskeySockets Baileys**](https
 
 ## Disclaimer
 
-WhatsApp is a trademark of WhatsApp Inc.  
-This library uses [**atexovi-baileys**](https://www.npmjs.com/package/atexovi-baileys), an open-source unofficial library.
-
-Use this library responsibly and avoid spam or misuse.
+WhatsApp is a trademark of WhatsApp Inc.
+This project uses atexovi-baileys, an open-source unofficial library.
+Use this library responsibly. The developer is not responsible for any misuse, spam, or damage caused by this bot. Always follow WhatsApp’s terms of service.
 
 ---
 
