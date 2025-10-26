@@ -4,8 +4,14 @@
 <p align="center">
 
   <!-- 🔹 BARIS 1 -->
+  <p align="center">
+
+  <!-- 🔹 BARIS 1: NPM & Node.js info -->
   <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
     <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
+  </a>
+  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+    <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&label=downloads&labelColor=CB3837&color=white" alt="Downloads">
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
@@ -13,22 +19,26 @@
   <a href="https://github.com/atex-ovi/atexovi-wabase-button/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
   </a>
+
+  <br>
+
+  <!-- 🔹 BARIS 2: GitHub stats & releases -->
   <a href="https://github.com/atex-ovi/atexovi-wabase-button/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
   </a>
   <a href="https://github.com/atex-ovi/atexovi-wabase-button/network/members" target="_blank">
     <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
   </a>
-
-  <br>
-
-  <!-- 🔹 BARIS 2 -->
   <a href="https://github.com/atex-ovi/baileys/issues" target="_blank">
     <img src="https://img.shields.io/github/issues/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Issues">
   </a>
   <a href="https://github.com/atex-ovi/baileys/commits/main" target="_blank">
     <img src="https://img.shields.io/github/last-commit/atex-ovi/baileys?style=flat&logo=git&labelColor=181717&color=white" alt="Last Commit">
   </a>
+
+  <br>
+
+  <!-- 🔹 BARIS 3: Bot release & social/donate -->
   <a href="https://github.com/atex-ovi/wabase-button/releases" target="_blank">
     <img src="https://img.shields.io/github/v/release/atex-ovi/wabase-button?style=flat&logo=whatsapp&logoColor=white&label=wabase-button&color=brightgreen" alt="Bot Version">
   </a>
