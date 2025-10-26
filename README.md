@@ -3,22 +3,20 @@
 
 <p align="center">
 
-  <!-- 🔹 BARIS 1 -->
-  <p align="center">
-
-  <!-- 🔹 BARIS 1: NPM & Node.js info -->
-  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
-  </a>
-  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-    <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&label=downloads&labelColor=CB3837&color=white" alt="Downloads">
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
-  </a>
-  <a href="https://github.com/atex-ovi/atexovi-wabase-button/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
-  </a>
+<!-- 🔹 BARIS 1: NPM & Node.js info -->
+<a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+  <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
+</a>
+<a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+  <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&label=downloads&labelColor=CB3837&color=white" alt="Downloads">
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
+</a>
+<img src="https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label" alt="TypeScript">
+<a href="https://github.com/atex-ovi/atexovi-wabase-button/blob/main/LICENSE" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
+</a>
 
   <br>
 
