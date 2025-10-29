@@ -1,6 +1,5 @@
-# atexovi-baileys
-**Atex Ovi modified Baileys WhatsApp API**
-
+<h1 align="center">atexovi-baileys</h1>
+<p align="center"><strong>Atex Ovi modified Baileys WhatsApp API</strong></p>
 <p align="center">
 
 <!-- 🔹 BARIS 1: NPM & Node.js info -->
