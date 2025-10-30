@@ -97,62 +97,207 @@ npm install atexovi-baileys
 
 ## Button Code Documentation
 
-Here is a brief example of using each type of button in **atexovi-baileys**.
+> [!NOTE]
+> All interactive button examples in this README use ESM syntax, so you can just do:
+```javascript
+import { sendMessage } from 'atexovi-baileys';
+```
 
 ### 1. List Button
+<details>
+  <summary>Show Example</summary>
 
-```js
-await sock.sendMessage(from, {
-  text: 'Select a menu:',
+```javascript
+await sock.sendMessage(jid, {
+  text: 'Choose an option from the list:',
+  title: 'List Menu',
+  subtitle: 'Select one',
+  footer: 'Sent by Atex Ovi',
   interactiveButtons: [
     {
       name: 'single_select',
       buttonParamsJson: JSON.stringify({
-        title: 'Main Menu',
+        title: 'Select Option',
         sections: [
           {
-            title: 'Feature Options',
+            title: 'Main Options',
+            highlight_label: 'Recommended',
             rows: [
-              { title: 'Call Button', description: 'Call button example', id: 'call' },
-              { title: 'URL Button', description: 'URL button example', id: 'url' },
-              { title: 'Quick Reply Button', description: 'Quick reply button example', id: 'quick' },
-              { title: 'Copy Button', description: 'Copy button example', id: 'copy' },
-            ],
-          },
-        ],
-      }),
-    },
-  ],
+              { header: 'Header 1', title: 'Option 1', description: 'Description 1', id: 'id1' },
+              { header: 'Header 2', title: 'Option 2', description: 'Description 2', id: 'id2' }
+            ]
+          }
+        ]
+      })
+    }
+  ]
 });
 ```
 
-### 2. Call Button
+</details>
 
-```js
-import { handleCallButton } from './features/callButton.js';
-await handleCallButton(sock, from);
+### 2. Call Button
+<details>
+  <summary>Show Example</summary>
+
+```javascript
+await sock.sendMessage(jid, {
+  text: 'Need help? Call us!',
+  title: 'Support',
+  subtitle: 'We are available',
+  footer: 'Sent by Atex Ovi',
+  interactiveButtons: [
+    {
+      name: 'cta_call',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Call Now',
+        phone_number: '+6281234567890'
+      })
+    }
+  ]
+});
 ```
+
+</details>
 
 ### 3. URL Button
+<details>
+  <summary>Show Example</summary>
 
-```js
-import { handleUrlButton } from './features/urlButton.js';
-await handleUrlButton(sock, from);
+```javascript
+await sock.sendMessage(jid, {
+  text: 'Check out our GitHub page!',
+  title: 'GitHub',
+  subtitle: 'Atex Ovi Repository',
+  footer: 'Sent by Atex Ovi',
+  interactiveButtons: [
+    {
+      name: 'cta_url',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Visit GitHub',
+        url: 'https://github.com/atex-ovi/baileys',
+        merchant_url: 'https://github.com/atex-ovi/baileys'
+      })
+    }
+  ]
+});
 ```
+</details>
 
 ### 4. Quick Reply Button
+<details>
+  <summary>Show Example</summary>
 
-```js
-import { handleQuickReplyButton } from './features/quickReplyButton.js';
-await handleQuickReplyButton(sock, from);
+```javascript
+await sock.sendMessage(jid, {
+  text: 'Choose quickly!',
+  title: 'Quick Reply',
+  subtitle: 'Tap one button',
+  footer: 'Sent by Atex Ovi',
+  interactiveButtons: [
+    {
+      name: 'quick_reply',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Click Me!',
+        id: 'quick_id'
+      })
+    }
+  ]
+});
 ```
+
+</details>
 
 ### 5. Copy Button
+<details>
+  <summary>Show Example</summary>
 
-```js
-import { handleCopyButton } from './features/copyButton.js';
-await handleCopyButton(sock, from);
+```javascript
+await sock.sendMessage(jid, {
+  text: 'Copy this link:',
+  title: 'Copy Example',
+  subtitle: 'Click the button to copy',
+  footer: 'Sent by Atex Ovi',
+  interactiveButtons: [
+    {
+      name: 'cta_copy',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Copy Link',
+        copy_code: 'https://github.com/atex-ovi/baileys'
+      })
+    }
+  ]
+});
 ```
+
+</details>
+
+### 6. Combination All Button
+<details>
+  <summary>Show Example</summary>
+
+```javascript
+await sock.sendMessage(jid, {
+  text: 'This is an interactive message!',
+  title: 'Hello!',
+  subtitle: 'Subtitle here',
+  footer: 'Sent by Atex Ovi',
+  interactiveButtons: [
+    {
+      name: 'single_select',
+      buttonParamsJson: JSON.stringify({
+        title: 'Choose an Option',
+        sections: [
+          {
+            title: 'Main Options',
+            highlight_label: 'Recommended',
+            rows: [
+              { header: 'Header 1', title: 'Option 1', description: 'Description 1', id: 'id1' },
+              { header: 'Header 2', title: 'Option 2', description: 'Description 2', id: 'id2' }
+            ]
+          }
+        ]
+      })
+    },
+
+    {
+      name: 'cta_call',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Call Me',
+        phone_number: '+6281234567890'
+      })
+    },
+
+    {
+      name: 'cta_url',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Visit GitHub',
+        url: 'https://github.com/atex-ovi/baileys',
+        merchant_url: 'https://github.com/atex-ovi/baileys'
+      })
+    },
+
+    {
+      name: 'quick_reply',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Click Me!',
+        id: 'quick_id'
+      })
+    },
+    
+    {
+      name: 'cta_copy',
+      buttonParamsJson: JSON.stringify({
+        display_text: 'Copy Link',
+        copy_code: 'https://github.com/atex-ovi/baileys'
+      })
+    }
+  ]
+});
+```
+</details>
+
+<br>
 
 ## Full Bot Template
 
