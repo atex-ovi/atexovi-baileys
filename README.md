@@ -319,12 +319,6 @@ Use this library responsibly. The developer is not responsible for any misuse, s
 
 ---
 
-## Donations
-
-Support the library development via [Saweria](https://saweria.co/atexovi)
-
----
-
 ## Special Thanks
 
 - **[Adhiraj Singh (@adiwajshing)](https://github.com/adiwajshing)** – Creator of the original [Baileys WhatsApp API](https://github.com/adiwajshing/baileys), an open-source library enabling interaction with WhatsApp Web via WebSocket.
@@ -340,6 +334,12 @@ Support the library development via [Saweria](https://saweria.co/atexovi)
 <a href="https://github.com/atex-ovi/wabase-button" target="_blank">
   <img src="https://img.shields.io/github/v/release/atex-ovi/wabase-button?style=flat&logo=whatsapp&logoColor=white&label=wabase-button&color=brightgreen" alt="wabase-button">
 </a>
+
+---
+
+## Donations
+
+Support the library development via [Saweria](https://saweria.co/atexovi)
 
 ---
 
