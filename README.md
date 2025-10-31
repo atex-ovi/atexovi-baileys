@@ -107,7 +107,7 @@ import { sendMessage } from 'atexovi-baileys';
 <details>
   <summary>Show Example</summary>
 
-```javascript
+```js
 await sock.sendMessage(jid, {
   text: 'Choose an option from the list:',
   title: 'List Menu',
@@ -140,7 +140,7 @@ await sock.sendMessage(jid, {
 <details>
   <summary>Show Example</summary>
 
-```javascript
+```js
 await sock.sendMessage(jid, {
   text: 'Need help? Call us!',
   title: 'Support',
@@ -164,7 +164,7 @@ await sock.sendMessage(jid, {
 <details>
   <summary>Show Example</summary>
 
-```javascript
+```js
 await sock.sendMessage(jid, {
   text: 'Check out our GitHub page!',
   title: 'GitHub',
@@ -188,7 +188,7 @@ await sock.sendMessage(jid, {
 <details>
   <summary>Show Example</summary>
 
-```javascript
+```js
 await sock.sendMessage(jid, {
   text: 'Choose quickly!',
   title: 'Quick Reply',
@@ -212,7 +212,7 @@ await sock.sendMessage(jid, {
 <details>
   <summary>Show Example</summary>
 
-```javascript
+```js
 await sock.sendMessage(jid, {
   text: 'Copy this link:',
   title: 'Copy Example',
@@ -236,7 +236,7 @@ await sock.sendMessage(jid, {
 <details>
   <summary>Show Example</summary>
 
-```javascript
+```js
 await sock.sendMessage(jid, {
   text: 'This is an interactive message!',
   title: 'Hello!',
