@@ -57,7 +57,7 @@
 WhatsApp library based on **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)**.  
 This library supports various interactive buttons and message templates.
 
----
+<br><br>
 
 ## Features
 - Compatible with **WhatsApp Multi-Device (MD)** API
@@ -73,7 +73,7 @@ This library supports various interactive buttons and message templates.
   - **Combination of buttons & menus**
 - Lightweight and easy to integrate with existing bots
 
----
+<br><br>
 
 ## Demo / Screenshots
 
@@ -87,13 +87,13 @@ This library supports various interactive buttons and message templates.
   </tr>
 </table>
 
----
+<br><br>
 This project is powered by **[atexovi-baileys](https://www.npmjs.com/package/atexovi-baileys)** – install via npm:
 
 ```bash
 npm install atexovi-baileys
 ```
----
+<br><br>
 
 ## Button Code Documentation
 
@@ -303,21 +303,21 @@ await sock.sendMessage(jid, {
 
 For a complete interactive bot implementation, see the template [here](https://github.com/atex-ovi/atexovi-wabase-button).
 
----
+<br><br>
 
 ## Further Development
 
 For advanced development, follow the official [**WhiskeySockets Baileys**](https://github.com/WhiskeySockets/Baileys).
 
----
+<br><br>
 
-## Disclaimer
+> [!CAUTION]
+> WhatsApp is a trademark of WhatsApp Inc.
+> This project uses atexovi-baileys, an open-source unofficial library.
+> Use this library responsibly. The developer is not responsible for any misuse, spam, or damage caused by this bot.
+> Always follow WhatsApp’s terms of service.
 
-WhatsApp is a trademark of WhatsApp Inc.
-This project uses atexovi-baileys, an open-source unofficial library.
-Use this library responsibly. The developer is not responsible for any misuse, spam, or damage caused by this bot. Always follow WhatsApp’s terms of service.
-
----
+<br><br>
 
 ## Special Thanks
 
@@ -327,7 +327,7 @@ Use this library responsibly. The developer is not responsible for any misuse, s
 
 - **[WhiskeySockets](https://github.com/WhiskeySockets/Baileys)** – Maintainers of the latest Baileys version, adding enhancements and features to support WhatsApp Multi-Device (MD).
 
----
+<br><br>
 
 ## Released
 
@@ -335,14 +335,16 @@ Use this library responsibly. The developer is not responsible for any misuse, s
   <img src="https://img.shields.io/github/v/release/atex-ovi/wabase-button?style=flat&logo=whatsapp&logoColor=white&label=wabase-button&color=brightgreen" alt="wabase-button">
 </a>
 
----
+<br><br>
 
-## Donations
+## Support & Donations
+If you find this project useful, consider supporting the development:
 
-Support the library development via [Saweria](https://saweria.co/atexovi)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://saweria.co/atexovi)
 
----
+<br><br>
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
