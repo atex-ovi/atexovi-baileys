@@ -61,7 +61,6 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
   - [ESM (ECMAScript Module)](#1-esm-ecmascript-module)
   - [CJS (CommonJS)](#2-cjs-commonjs)
 - [Example Usage (Interactive Message Button)](#example-usage-interactive-message-button)
-- [Disclaimer]([!CUTION])
 - [Documentation](#documentation)
 - [Requirements](#requirements)
 - [Donation](#donation)
