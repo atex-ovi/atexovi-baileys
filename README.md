@@ -104,10 +104,16 @@ Atexovi-Baileys supports a variety of interactive WhatsApp message types and cor
 <br>
 
 ## Installation
-
+From NPM (Recommended)
 ```bash
 npm install atexovi-baileys
 ```
+From GitHub (Development / Latest Commit)
+```bash
+npm install github:atex-ovi/atexovi-baileys
+```
+> [!TIP] 
+> Use GitHub installation if you want the latest commit that may not yet be published on NPM.
 
 <br>
 
