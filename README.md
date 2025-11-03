@@ -238,8 +238,8 @@ await sock.sendMessage(jid, {
       name: 'cta_url',
       buttonParamsJson: JSON.stringify({
         display_text: 'Visit GitHub',
-        url: 'https://github.com/atex-ovi/baileys',
-        merchant_url: 'https://github.com/atex-ovi/baileys'
+        url: 'https://github.com/atex-ovi',
+        merchant_url: 'https://github.com/atex-ovi'
       })
     }
   ]
@@ -286,7 +286,7 @@ await sock.sendMessage(jid, {
       name: 'cta_copy',
       buttonParamsJson: JSON.stringify({
         display_text: 'Copy Link',
-        copy_code: 'https://github.com/atex-ovi/baileys'
+        copy_code: 'https://github.com/atex-ovi'
       })
     }
   ]
@@ -335,8 +335,8 @@ await sock.sendMessage(jid, {
       name: 'cta_url',
       buttonParamsJson: JSON.stringify({
         display_text: 'Visit GitHub',
-        url: 'https://github.com/atex-ovi/baileys',
-        merchant_url: 'https://github.com/atex-ovi/baileys'
+        url: 'https://github.com/atex-ovi',
+        merchant_url: 'https://github.com/atex-ovi'
       })
     },
 
@@ -352,7 +352,7 @@ await sock.sendMessage(jid, {
       name: 'cta_copy',
       buttonParamsJson: JSON.stringify({
         display_text: 'Copy Link',
-        copy_code: 'https://github.com/atex-ovi/baileys'
+        copy_code: 'https://github.com/atex-ovi'
       })
     }
   ]
