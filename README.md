@@ -86,7 +86,7 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
 
 ## Features & Supported UI Types
 
-Atexovi-Baileys supports a variety of interactive WhatsApp message types and core features optimized for multi-device bots:
+**[Atexovi-Baileys](https://www.npmjs.com/package/atexovi-baileys/)** supports a variety of interactive WhatsApp message types and core features optimized for multi-device bots:
 
 | Feature / UI Type          | Description                                    |
 |----------------------------|------------------------------------------------|
