@@ -4,24 +4,27 @@
 <p align="center">
 
   <!-- 🔹 BARIS 1 -->
-  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-%3E%3D5.8-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript version">
-  </a>
-  <a href="https://github.com/atex-ovi/baileys/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
-  </a>
-  <a href="https://github.com/atex-ovi/baileys/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/atex-ovi/baileys/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
-  </a>
+<a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+  <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
+</a>
+<a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+  <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm downloads per week">
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-%3E%3D5.8-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript version">
+</a>
+<a href="https://github.com/atex-ovi/baileys/blob/main/LICENSE" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
+</a>
+<a href="https://github.com/atex-ovi/baileys/stargazers" target="_blank">
+  <img src="https://img.shields.io/github/stars/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
+</a>
+<a href="https://github.com/atex-ovi/baileys/network/members" target="_blank">
+  <img src="https://img.shields.io/github/forks/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
+</a>
 
   <br>
 
