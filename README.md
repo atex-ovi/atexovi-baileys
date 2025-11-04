@@ -75,7 +75,7 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
 - [Example Usage (Interactive Message Button)](#example-usage-interactive-message-button)
 - [Documentation](#documentation)
 - [Requirements](#requirements)
-- [Donation](#donation)
+- [Support](#support)
 - [License](#license)
 
 <br>
@@ -393,7 +393,7 @@ For full documentation, please refer to [Baileys official GitHub](https://github
 
 <br>
 
-## Donation
+## Support
 If you find this project useful, consider supporting the development:
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://saweria.co/atexovi)
