@@ -3,46 +3,55 @@
 
 <p align="center">
 
-  <!-- 🔹 BARIS 1 -->
-<a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-  <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
-</a>
-<a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-  <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm downloads per week">
-</a>
-<a href="https://nodejs.org/en/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-%3E%3D5.8-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript version">
-</a>
-<a href="https://github.com/atex-ovi/baileys/blob/main/LICENSE" target="_blank">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
-</a>
-<a href="https://github.com/atex-ovi/baileys/stargazers" target="_blank">
-  <img src="https://img.shields.io/github/stars/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
-</a>
-<a href="https://github.com/atex-ovi/baileys/network/members" target="_blank">
-  <img src="https://img.shields.io/github/forks/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
-</a>
+<p align="center">
+
+  <!-- 🔹 BARIS 1 — NPM & LICENSE -->
+  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
+  </a>
+  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+    <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm downloads per week">
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-%3E%3D5.8-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript version">
+  </a>
+  <a href="https://github.com/atex-ovi/baileys/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
+  </a>
 
   <br>
 
-  <!-- 🔹 BARIS 2 -->
+  <!-- 🔹 BARIS 2 — GITHUB -->
+  <a href="https://github.com/atex-ovi/baileys/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/atex-ovi/baileys/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
+  </a>
   <a href="https://github.com/atex-ovi/baileys/issues" target="_blank">
     <img src="https://img.shields.io/github/issues/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Issues">
   </a>
   <a href="https://github.com/atex-ovi/baileys/commits/main" target="_blank">
     <img src="https://img.shields.io/github/last-commit/atex-ovi/baileys?style=flat&logo=git&labelColor=181717&color=white" alt="Last Commit">
   </a>
+
+  <br>
+
+  <!-- 🔹 BARIS 3 — DONATE & CONTACT -->
   <a href="https://saweria.co/atexovi" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria Donate">
+    <img src="https://img.shields.io/badge/Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria">
   </a>
   <a href="https://t.me/atexovi" target="_blank">
-    <img src="https://img.shields.io/badge/Contact-Telegram-29A9EB?style=flat&logo=telegram&logoColor=white" alt="Telegram Contact">
+    <img src="https://img.shields.io/badge/Telegram-29A9EB?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://facebook.com/atex.ovi" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Follow">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbCMQ6x30LKO5q0GaC0n" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 
 </p>
