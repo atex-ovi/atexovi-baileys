@@ -73,6 +73,7 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
   - [ESM (ECMAScript Module)](#1-esm-ecmascript-module)
   - [CJS (CommonJS)](#2-cjs-commonjs)
 - [Example Usage (Interactive Message Button)](#example-usage-interactive-message-button)
+- [Disclaimer](#disclaimer)
 - [Documentation](#documentation)
 - [Requirements](#requirements)
 - [Support](#support)
@@ -370,6 +371,8 @@ await sock.sendMessage(jid, {
 </details>
 
 <br>
+
+## Disclaimer
 
 > [!CAUTION]
 > - This is a **modified version** of the official [Baileys WhatsApp Web API](https://github.com/WhiskeySockets/Baileys) for personal projects and private bot frameworks.  
