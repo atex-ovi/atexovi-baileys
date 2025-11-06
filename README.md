@@ -40,7 +40,10 @@
 
   <br>
 
-  <!-- 🔹 BARIS 3 — DONATE & CONTACT -->
+<!-- 🔹 BARIS 3 — DONATE & CONTACT -->
+  <a href="https://github.com/sponsors/atex-ovi" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%23f06?style=flat&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors">
+  </a>
   <a href="https://saweria.co/atexovi" target="_blank">
     <img src="https://img.shields.io/badge/Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria">
   </a>
