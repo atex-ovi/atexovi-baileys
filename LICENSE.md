@@ -1,6 +1,7 @@
-MIT License
-
-Copyright (c) 2025 Atex Ovi
+<p align="center">
+  <strong style="font-size:20px;">MIT License</strong><br>
+  &copy; 2025 Atex Ovi
+</p>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
