@@ -407,5 +407,5 @@ If you find this project useful, consider supporting the development:
 <br>
 
 ## License
-[MIT](./LICENSE.md)
+[MIT](./LICENSE)
  
