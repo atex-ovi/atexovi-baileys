@@ -24,26 +24,24 @@
 
   <br>
 
-  <!-- 🔹 BARIS 2 — GITHUB -->
-  <a href="https://github.com/atex-ovi/baileys/stargazers" target="_blank">
+<!-- 🔹 BARIS 2 — GITHUB -->
+<a href="https://github.com/atex-ovi/baileys/stargazers" target="_blank">
   <img src="https://img.shields.io/github/stars/atex-ovi/baileys?style=flat&label=Stars&color=white&labelColor=181717&logo=github" alt="GitHub Stars">
 </a>
-  <a href="https://github.com/atex-ovi/baileys/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/atex-ovi/baileys/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Issues">
-  </a>
-  <a href="https://github.com/atex-ovi/baileys/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/atex-ovi/baileys?style=flat&logo=git&labelColor=181717&color=white" alt="Last Commit">
-  </a>
+<a href="https://github.com/atex-ovi/baileys/network/members" target="_blank">
+  <img src="https://img.shields.io/github/forks/atex-ovi/baileys?style=flat&label=Forks&color=white&labelColor=181717&logo=github" alt="GitHub Forks">
+</a>
+<a href="https://github.com/atex-ovi/baileys/issues" target="_blank">
+  <img src="https://img.shields.io/github/issues/atex-ovi/baileys?style=flat&label=Issues&color=white&labelColor=181717&logo=github" alt="GitHub Issues">
+</a>
+<a href="https://github.com/atex-ovi/baileys/commits/main" target="_blank">
+  <img src="https://img.shields.io/github/last-commit/atex-ovi/baileys?style=flat&label=Last%20Commit&color=white&labelColor=181717&logo=git" alt="Last Commit">
+</a>
+
 
   <br>
 
 <!-- 🔹 BARIS 3 — DONATE & CONTACT -->
-  <a href="https://github.com/sponsors/atex-ovi" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-%23f06?style=flat&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors">
-  </a>
   <a href="https://saweria.co/atexovi" target="_blank">
     <img src="https://img.shields.io/badge/Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white" alt="Saweria">
   </a>
