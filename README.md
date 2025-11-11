@@ -1,6 +1,4 @@
 <h1 align="center">atexovi-baileys</h1>
-<p align="center"><strong>Atex Ovi modified Baileys WhatsApp API</strong></p>
-
 <p align="center">
 
   <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
