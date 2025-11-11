@@ -26,8 +26,8 @@
 
   <!-- 🔹 BARIS 2 — GITHUB -->
   <a href="https://github.com/atex-ovi/baileys/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
-  </a>
+  <img src="https://img.shields.io/github/stars/atex-ovi/baileys?style=flat&label=Stars&color=white&labelColor=181717&logo=github" alt="GitHub Stars">
+</a>
   <a href="https://github.com/atex-ovi/baileys/network/members" target="_blank">
     <img src="https://img.shields.io/github/forks/atex-ovi/baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
   </a>
