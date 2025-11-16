@@ -9,11 +9,11 @@ All notable changes to this project will be documented in this file.
 This release candidate has passed extensive internal testing and is currently the most stable build.
 
 ### Improvements
-- Optimized default bot behavior in `index.js`
-- Refined connection validation logic
-- More reliable pairing sequence
-- Improved consistency of message events
-- Enhanced recovery during unexpected reconnects
+- Optimized internal default behaviors for overall bot performance
+- Refined connection validation logic for smoother startup
+- More reliable and predictable pairing sequence
+- Improved consistency across various message event triggers
+- Enhanced auto-recovery during unexpected reconnects
 
 ### Fixes
 - Addressed major pairing failures
