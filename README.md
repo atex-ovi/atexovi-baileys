@@ -45,7 +45,7 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
 Please note that the **RC version is not final** and is still under active development. Further improvements and fixes will continue to be made. Use it primarily for testing and evaluation purposes.
 For a **stable and tested experience**, you can install the release candidate version by running:
 ```bash
-npm i atexovi-baileys@7.5.6-rc.4
+npm i atexovi-baileys@7.5.6-rc.5
 ```
 
 ---
