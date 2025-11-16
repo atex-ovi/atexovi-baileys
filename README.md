@@ -92,19 +92,41 @@ Atexovi-Baileys supports a variety of interactive WhatsApp message types and cor
 | **Optimized Media Handling** | Efficient media downloading and decoding.  |
 | **Custom Patches & Fixes** | Improved connection stability and bug fixes. |
 
-> ⚠️ Note: All other APIs and core features follow [Baileys official](https://github.com/WhiskeySockets/Baileys)
+> [!NOTE]
+> All other APIs and core features follow [Baileys official](https://github.com/WhiskeySockets/Baileys)
 
 ---
 
 ## Installation
 
-> ⚠️ Important Notice  
-> The current latest version (v7.5.6) is **not recommended** due to occasional connection losses and pairing issues with WhatsApp.  
-> For a stable and tested experience, please install the release candidate version:
+> [!IMPORTANT]
+> The current latest version (v7.5.6) is **not recommended** due to known issues, including occasional connection losses and pairing problems with WhatsApp.
+Please note that the **RC version is not final** and is still under active development. Further improvements and fixes will continue to be made. Use it primarily for testing and evaluation purposes.
+For a **stable and tested experience**, you can install the release candidate version by running:
+
+<details>
+  <summary><b>npm</b></summary>
 
 ```bash
 npm install atexovi-baileys@7.5.6-rc.5
 ```
+</details>
+
+<details>
+  <summary><b>yarn</b></summary>
+
+```bash
+yarn add atexovi-baileys@7.5.6-rc.5
+```
+</details>
+
+<details>
+  <summary><b>pnpm</b></summary>
+
+```bash
+pnpm add atexovi-baileys@7.5.6-rc.5
+```
+</details>
 
 ---
 
