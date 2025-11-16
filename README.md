@@ -43,7 +43,7 @@
 
 Custom implementation of the official [Baileys WhatsApp Web API](https://github.com/WhiskeySockets/Baileys), optimized and patched for personal projects and private bot frameworks.
 
----
+<br>
 
 ## Table of Contents
 
@@ -60,7 +60,7 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
 - [Donation](#donation)
 - [License](#license)
 
----
+<br>
 
 ## Demo / Screenshot
 <table>
@@ -73,7 +73,7 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
   </tr>
 </table>
 
----
+<br>
 
 ## Features & Supported UI Types
 
@@ -95,7 +95,7 @@ Atexovi-Baileys supports a variety of interactive WhatsApp message types and cor
 > [!NOTE]
 > All other APIs and core features follow [Baileys official](https://github.com/WhiskeySockets/Baileys)
 
----
+<br>
 
 ## Installation
 
@@ -128,7 +128,7 @@ pnpm add atexovi-baileys@7.5.6-rc.5
 ```
 </details>
 
----
+<br>
 
 ## Module Import and Export
 
@@ -147,7 +147,7 @@ export function someFunction() {
 }
 ```
 
----
+<br>
 
 ### 2. CJS (CommonJS)
 If you are using CommonJS (no `"type"` or `"type": "commonjs"` in your `package.json`):
@@ -165,12 +165,13 @@ module.exports = {
 ```
 
 
----
+<br>
 
 
 ## Example Usage (Interactive Message Button)
 
-### 💡 Note: All interactive button examples in this README use ESM syntax, so you can just do:
+> [!NOTE]
+> All interactive button examples in this README use ESM syntax, so you can just do:
 ```javascript
 import { sendMessage } from 'atexovi-baileys';
 ```
@@ -369,20 +370,22 @@ await sock.sendMessage(jid, {
 ```
 </details>
 
----
+<br>
 
 ## Disclaimer
-- This is a **modified version** of the official [Baileys WhatsApp Web API](https://github.com/WhiskeySockets/Baileys) for personal projects and private bot frameworks.  
-- Please **respect WhatsApp's terms of service**.  
-- All core APIs and features remain based on Baileys official; this modification **does not bypass or alter WhatsApp restrictions**.  
-- Use responsibly and at your own risk.
 
----
+> [!CAUTION]
+> - This is a **modified version** of the official [Baileys WhatsApp Web API](https://github.com/WhiskeySockets/Baileys) for personal projects and private bot frameworks.  
+> - Please **respect WhatsApp's terms of service**.  
+> - All core APIs and features remain based on Baileys official; this modification **does not bypass or alter WhatsApp restrictions**.  
+> - Use responsibly and at your own risk.
+
+<br>
 
 ## Documentation
 For full documentation, please refer to [Baileys official GitHub](https://github.com/WhiskeySockets/Baileys)
 
----
+<br>
 
 ## Requirements
 - **🟢 Node.js >= 20**
@@ -391,12 +394,14 @@ For full documentation, please refer to [Baileys official GitHub](https://github
 - Supports multi-device WhatsApp
 - Dependencies installed via `npm install`
 
----
+<br>
 
-## Donation
-[![Saweria](https://img.shields.io/badge/Saweria-FFA726?style=flat&logo=ko-fi&logoColor=white)](https://saweria.co/atexovi)
+## Support
+If you find this project useful, consider supporting the development:
 
----
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://saweria.co/atexovi)
+
+<br>
 
 ## License
 [MIT](./LICENSE.md)
