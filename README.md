@@ -10,9 +10,9 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-%3E%3D20-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js version">
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <!--<a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-%3E%3D5.8-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript version">
-  </a>
+  </a> -->
   <a href="https://github.com/atex-ovi/baileys/blob/main/LICENSE.md" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&logo=balance-scale&logoColor=black" alt="License MIT">
   </a>
