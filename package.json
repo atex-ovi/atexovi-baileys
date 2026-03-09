@@ -1,6 +1,6 @@
 {
   "name": "atexovi-baileys",
-  "version": "7.5.6-rc.5",
+  "version": "7.5.6-rc.6",
   "description": "Atex Ovi modified Baileys WhatsApp API for custom bots and personal projects",
   "keywords": [
     "baileys",
@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@cacheable/node-cache": "^1.4.0",
+    "@cacheable/node-cache": "^2.0.2",
     "@hapi/boom": "^10.0.1",
     "acorn": "^8.15.0",
     "acorn-walk": "^8.3.4",
@@ -62,7 +62,7 @@
     "lodash": "^4.17.21",
     "music-metadata": "^11.9.0",
     "pino": "^10.1.0",
-    "protobufjs": "^7.5.4",
+    "protobufjs": "^8.0.0",
     "uuid": "^13.0.0",
     "ws": "^8.13.0"
   },
@@ -70,15 +70,15 @@
     "@adiwajshing/eslint-config": "github:adiwajshing/eslint-config",
     "@types/got": "^9.6.11",
     "@types/jest": "^30.0.0",
-    "@types/node": "^22.19.0",
+    "@types/node": "^24.12.0",
     "@types/ws": "^8.0.0",
     "conventional-changelog-cli": "^5.0.0",
-    "eslint": "^9.38.0",
+    "eslint": "^10.0.3",
     "jest": "^30.2.0",
     "jimp": "^1.6.0",
     "json": "^11.0.0",
-    "link-preview-js": "^3.0.0",
-    "open": "^10.2.0",
+    "link-preview-js": "^4.0.0",
+    "open": "^11.0.0",
     "qrcode-terminal": "^0.12.0",
     "release-it": "^19.0.5",
     "sharp": "^0.34.4",
@@ -89,7 +89,7 @@
   },
   "peerDependencies": {
     "jimp": "^1.6.0",
-    "link-preview-js": "^3.0.0",
+    "link-preview-js": "^4.0.0",
     "qrcode-terminal": "^0.12.0",
     "sharp": "^0.34.4"
   },
