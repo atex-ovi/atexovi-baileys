@@ -108,7 +108,7 @@ For a **stable and tested experience**, you can install the release candidate ve
   <summary><b>npm</b></summary>
 
 ```bash
-npm install atexovi-baileys@7.5.6-rc.5
+npm install atexovi-baileys@7.5.6-rc.6
 ```
 </details>
 
