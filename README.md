@@ -57,7 +57,7 @@ Custom implementation of the official [Baileys WhatsApp Web API](https://github.
 - [Disclaimer](#disclaimer)
 - [Documentation](#documentation)
 - [Requirements](#requirements)
-- [Donation](#donation)
+- [Support](#support)
 - [License](#license)
 
 <br>
@@ -116,7 +116,7 @@ npm install atexovi-baileys@7.5.6-rc.6
   <summary><b>yarn</b></summary>
 
 ```bash
-yarn add atexovi-baileys@7.5.6-rc.5
+yarn add atexovi-baileys@7.5.6-rc.6
 ```
 </details>
 
@@ -124,7 +124,7 @@ yarn add atexovi-baileys@7.5.6-rc.5
   <summary><b>pnpm</b></summary>
 
 ```bash
-pnpm add atexovi-baileys@7.5.6-rc.5
+pnpm add atexovi-baileys@7.5.6-rc.6
 ```
 </details>
 
